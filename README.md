@@ -4,6 +4,17 @@ A memory scanning tool for detecting cheat clients in Minecraft. Scans `javaw.ex
 
 ![Demo](https://imgur.com/a/8dxSOS0)
 
+## ⚠️ Antivirus Flag Warning
+
+It is common for antivirus software to flag tools like GrampsFucker. This happens for several reasons:
+
+- **Behavioral Detection**: The tool reads the memory of other running processes (`javaw.exe`). This is a behavior often associated with malware, causing heuristic-based alerts.
+- **Obfuscation**: To protect the code from being easily copied or reversed, the executable is obfuscated. Obfuscation techniques are frequently used by malware to evade detection, which can trigger false positives.
+- **Generic Signatures**: The obfuscation and packing methods used can match generic signatures for "hack tools" or "riskware" in antivirus databases.
+
+**Important**: This tool is **not malware**. It does not steal data, damage your system, or perform any malicious actions.
+
+
 ## Features
 
 - **Memory Scanning** - Scans JVM memory of running Minecraft instances
@@ -13,7 +24,7 @@ A memory scanning tool for detecting cheat clients in Minecraft. Scans `javaw.ex
 
 ## Current Detections
 
-| Client |
+| Clients |
 |--------|
 | Doomsday |
 | Prestige |
@@ -35,15 +46,6 @@ A memory scanning tool for detecting cheat clients in Minecraft. Scans `javaw.ex
 2. Select **option 1** to start the scan
 3. Results will display detected clients and modules
 
-## ⚠️ Antivirus Flag Warning
-
-It is common for antivirus software to flag tools like GrampsFucker. This happens for several reasons:
-
-- **Behavioral Detection**: The tool reads the memory of other running processes (`javaw.exe`). This is a behavior often associated with malware, causing heuristic-based alerts.
-- **Obfuscation**: To protect the code from being easily copied or reversed, the executable is obfuscated. Obfuscation techniques are frequently used by malware to evade detection, which can trigger false positives.
-- **Generic Signatures**: The obfuscation and packing methods used can match generic signatures for "hack tools" or "riskware" in antivirus databases.
-
-**Important**: This tool is **not malware**. It does not steal data, damage your system, or perform any malicious actions.
 
 ## Support
 
