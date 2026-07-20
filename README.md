@@ -23,13 +23,18 @@ It is common for antivirus software to flag tools like GrampsFucker. This happen
 - **Generic Module Detection** – Identifies common cheat modules (KillAura, AimAssist, etc.)
 - **Clean UI** – Simple console interface with progress bar
 
-## Current Detections
+## Current Client Detections
 
 | Clients |
 |--------|
-| Doomsday |
-| Prestige |
+| Prestige Client |
+| Dqrkis Client|
+| Doomsday Client|
+| Argon Client |
+| Cyemer Client |
+| System Client |
 
+## Detected Modules
 <details>
 <summary><b>Generic Modules Detected</b> (click to expand)</summary>
 
