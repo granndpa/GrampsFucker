@@ -2,7 +2,8 @@
 
 A memory scanning tool for detecting cheat clients in Minecraft. Scans `javaw.exe` processes to identify known cheat clients via signature matching.
 
-<img width="1111" height="619" alt="image" src="https://github.com/user-attachments/assets/90acc13d-e210-4757-be9d-c6cb6a33128a" />
+<img width="1111" height="619" alt="image" src="<img width="1105" height="699" alt="image" src="https://github.com/user-attachments/assets/d5f65c2b-e93e-4e97-bb40-44ca5586c2c7" />
+" />
 
 
 ## ⚠️ Antivirus Flag Warning
