@@ -30,16 +30,45 @@ It is common for antivirus software to flag tools like GrampsFucker. This happen
 | Doomsday |
 | Prestige |
 
-### Generic Modules Detected
-- KillAura, AimAssist, TriggerBot, AutoClicker
-- ShieldBreaker, ClickGUI, HudEditor
-- BlinkManager, PacketLogger, AngelWings
-- MotionBlur, JumpCircles, Plinko
-- CinematicCamera, AutoSpear, AntiBot
-- FakeLag, BowAimBot, ElytraFly
-- NoSlowDown, TargetStrafe, AutoAnchor
-- CrystalAura, LagCompensation, NoHurtCam
-- NoWeather, NoFog, NoScoreboard, NoBossBar
+<details>
+<summary><b>Generic Modules Detected</b> (click to expand)</summary>
+
+#### Combat
+- Kill Aura, Crystal Aura, Auto Mace, Auto Anchor, Auto Totem
+- Auto Crystal, Auto Spear, Auto Lunge, Lunge Macro
+- Aim Assist, Trigger Bot, Tbot, Velocity
+- No Fall, No Slow, No Web, Auto Hit Crystal
+- Auto Inventory Totem, Auto Refill, Fake Lag, Hover Totem, Totem Offhand
+- Anti Velocity, Anti Bot, Shield Drain, Stun Slam, No Jump Delay
+- W-Tap, Force Totem, Auto Retotem
+
+#### Movement
+- InventoryMove, Fast Bridge, Bridge Assist
+- Fast Swim, Fast Place, No Break Delay
+- Elytra Swap, Firework Mace, Delete USN
+
+#### Auto / Utilities
+- Auto Pot, Auto Eat, Auto XP, Auto Armor, Auto Tool
+- Auto Sprint, Auto Swim, Auto Walk, Auto Fish
+- Auto Shield Break, Auto Shield, Auto Farm, Auto Steal, Auto Drain, Auto Jump Reset
+- Auto Drop, Auto Heal, Auto Replenish
+- Auto Reply, Auto Sword, Auto Bow, Auto Pearl, Auto Tpa
+- Auto Switch, Auto Disconnect, Auto Log, Auto Accept, Auto Double Hand
+- Auto Mend, Auto Repair, Auto Reconnect, Auto Join, Auto Leave
+- Key Pearl, No Miss Delay, No Attack Delay, Ping Spoof
+- Auto Spawner, Auto Chest
+
+#### Visuals
+- Tracers, Chams, Name Tags
+- ESP, Player ESP, Entity ESP, Storage ESP
+- X Ray
+
+#### Evasion
+- Self Destruct, Self Delete, Bypass
+- String Cleaner, Anti SS
+- USN Journal Cleaner, Delete USN Journal, Generic Self Destruct
+
+</details>
 
 ## Usage
 
